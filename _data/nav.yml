@@ -2,13 +2,13 @@
   path: index.html
   section_id: home
 - name: About
-  path: about.html
+  path: #
   section_id: about
 - name: Services
-  path: services.html
+  path: #
   section_id: services
 
 - name: Contact
-  path: contact.html
+  path: #
   section_id: contact
 
